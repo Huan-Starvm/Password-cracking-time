@@ -17,8 +17,8 @@ class Footer extends HTMLElement {
                     <p>
                         <a class="no-underline" href="https://pages.github.com/" target="_blank" rel="nofollow"> 
                             Power by
-                            <img id="light-powerby-icon" src="/resources/github-mark.png" style="height:1.3rem;" alt="Server provider Github">
-                            <img id="dark-powerby-icon" src="/resources/github-mark-white.png" style="height:1.3rem;" alt="Server provider Github">
+                            <img id="light-powerby-icon" src="img/github-mark.png" style="height:1.3rem;" alt="Server provider Github">
+                            <img id="dark-powerby-icon" src="img/github-mark-white.png" style="height:1.3rem;" alt="Server provider Github">
                             Github Pages
                         </a>
                         
